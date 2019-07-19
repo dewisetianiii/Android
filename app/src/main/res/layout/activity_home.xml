@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/masak"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Home">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="5dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:text="Resep Masakan Nusantara"
+        android:textColor="#000000"
+        android:textSize="45sp"/>
+
+    <Button
+        android:id="@+id/Button1"
+        android:layout_width="80pt"
+        android:layout_height="70dp"
+        android:background="#B4A2A2"
+        android:text="Mulai"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="95dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/Button2"
+        android:layout_width="80pt"
+        android:layout_height="70dp"
+        android:background="#B4A2A2"
+        android:text="Tentang"
+        android:textStyle="bold"
+        android:layout_marginLeft="95dp"
+        android:layout_marginTop="30dp"/>
+
+    <Button
+        android:id="@+id/keluar"
+        android:layout_width="80pt"
+        android:layout_height="70dp"
+        android:background="#B4A2A2"
+        android:text="Keluar"
+        android:textStyle="bold"
+        android:layout_marginLeft="95dp"
+        android:layout_marginTop="30dp"/>
+
+
+
+
+
+
+
+
+</LinearLayout>

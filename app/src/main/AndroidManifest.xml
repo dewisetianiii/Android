@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.project">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".AyamGeprek"></activity>
+        <activity android:name=".SayurLombokIjo" />
+        <activity android:name=".NasiTiwul" />
+        <activity android:name=".Krecek" />
+        <activity android:name=".Gudeg" />
+        <activity android:name=".KueCucur" />
+        <activity android:name=".KetanBintul" />
+        <activity android:name=".AngeunLada" />
+        <activity android:name=".SotoKhasBanten" />
+        <activity android:name=".SateBandeng" />
+        <activity android:name=".SateMadura" />
+        <activity android:name=".RujakSoto" />
+        <activity android:name=".PecelLele" />
+        <activity android:name=".SotoLamongan" />
+        <activity android:name=".GadoGado" />
+        <activity android:name=".NasiGandul" />
+        <activity android:name=".SotoKudus" />
+        <activity android:name=".NasiLiwet" />
+        <activity android:name=".Tempe" />
+        <activity android:name=".Lumpia" />
+        <activity android:name=".Surabi" />
+        <activity android:name=".Lontong" />
+        <activity android:name=".Asinan" />
+        <activity android:name=".MieKocok" />
+        <activity android:name=".Lotek" />
+        <activity android:name=".Resep5" />
+        <activity android:name=".Resep4" />
+        <activity android:name=".Resep3" />
+        <activity android:name=".Resep2" />
+        <activity android:name=".Resep" />
+        <activity android:name=".Provinsi" />
+        <activity android:name=".About" />
+        <activity android:name=".Home" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

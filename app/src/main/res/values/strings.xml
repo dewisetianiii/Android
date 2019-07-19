@@ -1,0 +1,652 @@
+<resources>
+    <string name="app_name">ResepMasak</string>
+    <string name="about">Nama Pembuat : Dewi Setiani</string>
+    <string name="about1">Tentang Aplikasi : Aplikasi ini untuk memperkaya wawasan,
+    pengetahuan dan keterampilan kita dalam hal pengolahan makanan, apalagi jika dalam
+    resep tersebut kita menemukan tips atau trik tertentu, yang dipergunakan dalam memasak</string>
+    <string name="bahan">->Bahan-bahan: \n1.Kangkung - 1 ikat
+\n2.Bayam - 1 ikat
+\n3.Tauge - 100 gram
+\n4.Kacang panjang - 100 gram
+\n5.Kol - 100 gram
+\n6.Labu siam - 100 gram
+\n->Bumbu:
+\n1.Kacang tanah, goreng - 100 gram
+\n2.Bawang putih - 1 siung
+\n3.Kencur - 3 cm
+\n4.Cabai rawit - 3 buah
+\n5.Terasi, goreng - 1/2 sdt
+\n6.Garam - 1 sdt
+\n7.Gula merah - 1 sdt
+\n8.Air asam - 1 sdm
+\n9.Jeruk limau, ambil airnya - 1 buah
+\n10.Air matang - secukupnya
+\n->Pelengkap:
+\n1.Bawang merah goreng - secukupnya
+\n2.Kerupuk - secukupnya</string>
+    <string name="cara">->Langkah:\nSiapkan semua sayuran. Petik dan potong-potong kangkung serta  daun bayam. Cuci bersih dan tiriskan. Cuci bersih tauge, kacang panjang, kol, dan labu siam. Potong-potong kacang panjang dan kol. Iris kecil labu siam.
+Rebus masing-masing sayuran. Angkat dan tiriskan.
+Haluskan bawang putih, kencur, cabai rawit, dan garam.
+Tambahkan kacang tanah goreng dan gula merah. Haluskan kembali.
+Tuang air asam, air perasan jeruk limau, dan air matang secukupnya hingga saus berubah jadi pasta.
+Masukan sayur rebus. Aduk rata hingga sayur terlumuri oleh saus seluruhnya.
+Tata di piring dan siap disajikan bersama bahan pelengkap.</string>
+    <string name="tips">->Tips:\nSayuran jangan direbus terlalu lama agar teksturnya tetap terjaga.</string>
+    <string name="a">->bahan bahan:
+\n1.1 bungkus mie telor (kurang lebih 250 gr)
+\n2. bakso secukupnya
+\n3.tauge rebus secukupnya
+\n4.daun bawang secukupnya, potong tipis
+\n5. 2 lembar daun salam
+\n6. 2 lembar daun jeruk, buang tulang daunnya
+\n7. 1 batang serai, memarkan
+\n8. 1 cm jahe, memarkan</string>
+    <string name="b">->bumbu halus:
+\n4 siung bawang putih
+\n6 siung bawang merah
+\n2 butir kemiri
+\n1 sdm ebi kering
+\n1/2 sdt merica
+\n1 sdt gula
+\ngaram secukupnya
+       ->Bumbu kuah:
+\n300 gr kikil sapi/ daging tetelan sapi
+\n2 siung bawang putih, memarkan
+\n1.5 liter air
+\nmerica dan garam secukupnya</string>
+    <string name="c">->Cara membuat:\n
+Rebus kikil sapi, buang busanya. Masukkan garam, bawang putih, dan merica secukupnya. Masak hingga matang, kikil empuk.
+Tumis bumbu halus, masukkan daun salam, serai, jahe dan daun jeruk. Masak hingga matang. Tuangkan ke dalam kaldu sapi. Rebus hingga kaldu terasa sedap.
+Rebus mie telur. sisihkan.
+Tata dalam mangkuk, mie telur, bakso, tauge, dan potongan tomat (jika suka). Potong-potong kikil sapi, taruh juga di mangkuk. Tuang dengan kuah kaldu sapi.
+Taburi dengan daun bawang dan bawang goreng.
+Mie kocok bandung siap sajikan hangat dengan sambal dan kerupuk.</string>
+    <string name="d">->Bahan Dasar Resep Asinan Bogor :\n
+Sediakan buah-buahan seperti kedondong, mangga mengkal, nanas, timun, bengkuang dan lainnya, porsi disesuaikan dengan selera. Potong dengan ukuran sesuai selera.</string>
+    <string name="e">->Bahan Kuah Resep Asinan Bogor :\n1.Sediakan 100 gr gula pasir\n2.Sediakan 10 buah cabai merah besar, haluskan\n3.Sediakan 10 buah cabai rawit, haluskan\n4.Sediakan 1 sdm asam jawa\n5.Sediakan 2 sdm cuka masak\n6.Sediakan 2 sdm garam dapur\n7.Sediakan 1500 ml Air\n
+Cara Membuat Resep Asinan Bogor :\n
+1.Langkah pertama didihkan air dan  masukkan gula pasir, cabai merah dan cabai rawit yang sudah dihaluskan, garam dan asam jawa. Masak hingga gula dan asam jawa larut, angkat dan biarkan hingga dingin.
+\n2.Setelah dingin kemudian pindahkan kedalam wadah plastik dan barulah bubuhkan cuka.
+\n3.Lalu masukkan buah-buahan yang telah dipotong-potong.
+\n4.Asinan buah dapat langsung dinikmati, tetapi untuk mendapatkan citarasa yang lebih enak sebaiknya dibiarkan dulu semalaman di kulkas dan besoknya baru dihidangkan.</string>
+    <string name="f">->Bahan-bahan:\n1.250 gr daging sapi,rebus hingga empuk potong sesuai selera\n2.5 lbr daun jeruk\n3.3 lbr daun salam\n4.1 btg sereh\n5.3 bh cengkeh\n6.secukupnya Air\n7.1 santan instan\n8.Garam\n9.Gula\n10.Merica
+\n->Bumbu halus :
+\n1.3 bh cabe merah, buang bijinya
+\n2.3 siung bawang putih
+\n3.7 bh bawang merah
+\n4.1 ruas lengkuas
+\n5.1 ruas jahe
+\n6.1 ruas kunyit
+\n7.5 butir kemiri
+\n->Pelengkap dan taburan :
+\n1.Lontong/ketupat
+\n2.Bawang goreng
+\n3.Seledri, dirajang
+\n4.Kacang tanah goreng
+\n5.Emping
+\n6.Telur rebus, tadi d skip karena ga sempat ngrebus telor
+\n7.Sambel
+\n8.Jeruk limau
+\n
+\n->Langkah:
+\n1.Didihkan air.. Masukkan daging rebus yg sudah di potong potong
+\n2.Tumis bumbu halus hingga harum.. Masukkan daun salam, daun jeruk, sereh, cengkeh.. Matangkan bumbu tuang ke dalam rebusan daging
+\n3.Tambahkan garam gula merica.. Tes rasa.. Tuangkan santan.. Matikan api
+\n4.Susun lontong di piring.. Tuangi dengan kuah kari.. Tambahkan bahan pelengkap</string>
+    <string name="g">->Bahan Serabi:
+\n1.150 gram tepung beras
+\n2.250 ml santan kental
+\n3.1/2 sdt fermipan
+\n4.50 gram gula pasir
+\n5.1/4 sdt garam
+\n6.1/4 sdt vanili bubuk
+\n7.pasta pandan (opsional)
+\n->Bahan Kuah:
+\n350 ml santan
+\n80 gram gula merah
+\n1 lembar daun pandan
+\n->Cara Membuat:
+\nRebus santan, garam, dan vanili sampai mendidih.
+Campur tepung beras, gula pasir, fermipan, dan vanili.
+Aduk rata lalu masukkan santan yang sudah direbus.
+Aduk lagi sampai tak ada yang menggumpal.
+Saring agar adonan benar-benar halus.
+Tambahkan pasta pandan jika suka.
+Siapkan wajan teflon, beri sedikit minyak goreng dan masak serabi sampai matang.
+Ulangi sampai semua adonan habis.
+Masak kuahnya, campur semua bahan dan aduk terus di atas api kecil.
+Setelah matang matikan api dan saring kuah.
+Sajikan serabi bersama kuah santan.\n
+
+Ladies bisa menambahkan nangka atau durian agar kuah serabi terasa lebih lezat. Selamat mencoba ya.</string>
+    <string name="h">->Bahan kulit :
+\n200 gram terigu protein sedang
+\n800 ml susu cair atau air biasa
+\n2 butir telor
+\n1 sdt garam
+\n2 sdm minyak sayur
+\n->Bahan Isi :
+\n100 gram rebung
+\n100 gram daging ayam cincang
+\n50 gram udang cincang
+\n3 butir telur
+\n1 ikat daun bawang
+\n1 buah bawang bombay
+\n2 siung bawang putih
+\n1 sdt garam
+\n4 sdt gula pasir
+\n1 sdt kaldu bubuk
+\n1/2 sdt merica bubuk
+\n2 sdm kecap manis
+\n->Bahan Saus :
+\n50 ml tauco
+\n100 ml saus tomat
+\n1/2 sdt garam
+\n5 sdm gula pasir
+\n1/2 sdt cuka masak
+\n1 sdm tepung maizena
+\n->Langkah:
+\n1.Pertama kita buat isi nya terlebih dahulu, potong/iris rebung memanjang sebesar korek api, kemudian cuci dan rebus sampai empuk dan aroma khas nya berkurang, kemudian bilas dibawah air mengalir dan tiriskan
+\n2.Kocok telur dan goreng orak arik (scrambell egg) sampai matang dan sisihkan
+\n3.Tumis bawang putih hingga harus, masuk kan daun bawang, bawang bombay, ayam cincang, udang cincang, aduk rata,tambahkan 1/2 gelas air masak hingga mendidih, masuk kan rebung, garam, gula, merica bubuk, kecap manis, kaldu bubuk dan telur orak arik masak sampai bumbu meresap dan kuah menyusut, angkat dan sisihkan
+\n4.Siapkan sausnya, campur tauco, saus tomat, garam, gula dan tepung maizena(yang sudah dilarutkan dengan 1 gelas air) masak dengan api kecil sambil diaduk terus hingga mendidih, angkat dan sisihkan
+\n5.Tahap selanjutnya membuat kulit lumpia, campur semua bahan kulit menjadi satu, kemudian mixer dengan speed sedang saja selama 5 menit, kemudian diamkan 30 menit, baru siap di cetap di atas wajan anti lengket yang di oles minyak terlebih dahulu
+\n6.Isi kulit lumpia dengan isian lumpia, lipat bentuk amplop sampai adonan selesai, kemudian siap kan minyak panas dengan api sedang, goreng lumpia dan sajikan bersama saus nya, (apabila ingin lumpia basah, maka setelah lumpia di lipat bentuk amplop bisa langsung disajikan bersama saus tanpa harus digoreng terlebih dahulu) selamat mencoba:)</string>
+    <string name="i">->Bahan:\n250 gr tempe, iris tipis lebar 10 x 6 x 1 cm\n75 gr tepung beras\n25 gr tepung kanji\n3 batang kucai, potong ½ cm\n125 ml air
+\n->Haluskan:
+\n2 sdt ketumbar
+\n1 siung bawang putih
+\n1 cm kencur
+\ngaram secukupnya
+\n->Cara membuat tempe mendoan:
+\n1.Campur bumbu halus dengan tepung beras dan kanji.
+\n2.Aduk rata sambil dituang air sedikit demi sedikit.
+\n3.Aduk terus hingga rata dan licin.
+\n4.Masukkan kucainya.
+\n5.Panaskan minyak banyak di penggorengan.
+\n6.Celupkan tempe satu persatu ke dalam adonan tepung.
+\n7.Goreng sampai kecoklatan.
+\n8.Angkat dan sajikan dengan cabe rawit.</string>
+    <string name="j">->Bahan:
+\n300 gram beras
+\n600 ml air, sesuaikan dengan kondisi beras
+\n2 batang serai, memarkan
+\n5 lembar daun salam
+\n12 butir bawang merah, iris tipis
+\n5 siung bawang putih, iris tipis
+\n10 buah cabai rawit
+\n1/2 sdt garam
+\n2 sdm minyak goreng untuk menumis
+\nSegenggam daun kemangi
+\n100 gr teri medan, goreng hingga matang\n
+->Pelengkap:
+\n5 buah tempe goreng
+\nSambal terasi\n
+        ->Cara membuat:
+\n1.Panaskan minyak, tumis serai, daun salam, bawang merah, bawang putih, dan cabai rawit hingga harum, angkat dan tiriskan.
+\n2.Masukkan beras yang sudah dicuci ke panci rice cooker dan tumisan bumbu, tuang air sesuai takaran. Masak hingga air berkurang, aduk-aduk, tutup rice cooker.
+\n3.Masukkan teri medan, daun kemangi, aduk hingga tercampur rata. Masak sekali lagi agar nasi matang, aduk-aduk kembali nasi dan sajikan bersama pelengkap dan lalap. </string>
+    <string name="k">->Bahan :
+\n1 kg daging kerbau
+\n2 batang serai, geprek keduanya menggunakan cobek
+\n2 lembar daun salam
+\n4 tauge, cuci bersih
+\n3 cm lengkuas, (di geprek)
+\n½ sendok teh kaldu bubuk instan rasa ayam atau sapi
+\n3 buah jeruk nipis, peras dan ambil sarinya
+\nGula secukupnya
+\nGaram secukupnya
+\n3 sendok kecap manis
+\nMinyak untuk menggoreng dan menumis
+\nair bersih secukup nya\n
+->Bumbu halus :
+\n½ sendok teh jinten
+\n1 sendok makan merica bubuk
+\n3 cm jahe
+\n4 siung bawang putih
+\n6 siung bawang merah
+\n6 buah kemiri\n
+->Bahan pelengkap :
+\nBawang goreng secukupnya
+\nDaun seledri secukupnya iris tipis
+\nDaun bawang secukupnya, iris tipis
+\n4 butir telur rebus, kupas dan belah menjadi 2 bagian\n
+->Cara memasak soto Kudus dengan resep spesial:
+\nResep soto Kudus yang pertama, Anda bisa merebus air dan masukan daging kerbau, lengkuas, serai dan daun salam. Tambahkan juga gula dan garam sesuai dengan selera. Masak semua bahan selama kurang lebih 45 menit hingga air berubah menjadi kaldu dan tercium bau harum. Apabila daging kerbau sudah empuk, angkat dan tiriskan.
+Siapkan bahan bumbu, kemudian haluskan memakai cobek, jangan memakai blender agar rasa nya lebih sedap dan enak.
+Siapkan wajan untuk menumis bumbu yang sudah halus, tumis sampai benar-benar matang dan tercium bau harum. Masukan bumbu yang sudah ditumis ke dalam kaldu soto. Tambahkan juga kaldu ayam instan, garam, gula, air perasan jeruk nipis dan kecap manis.
+Aduk semua bahan hingga merata dan masak hingga mendidih selam 30 menit agar semua bahan tercampur merata.
+Masukan suwiran daging ayam dan taoge, lalu matikan api.
+Untuk penyajiannya, tuang kuah soto dalam mangku Tambahkan irisan daun bawang dna seledri dan jangan lupa taburi bawang goreng.
+Soto kudus siap dinikmati</string>
+    <string name="l">->Bahan-Bahan:
+\n500 gram daging sapi
+\n2 cm lengkuas
+\n2 lembar salam
+\n2 batang serai
+\nkaldu jamur secukupnya
+\ngaram dan kecap manis secukupnya
+\n1 sdm gula jawa
+\n1,5 liter santan kelaoa
+\njeruk nipis
+\nbawang goreng\n
+->Bumbu halus:
+\n10 butir bawang merah
+\n4 siung bawang putih
+\n2 buah kluwak
+\n6 butir kemiri
+\n2 cm kencur
+\n1/2 sdt ketumbar sangrai
+\n1/2 sdt merica bubuk
+\n1/4 sdt jinten \n
+->Cara Membuat:
+\n1. Didihkan air, rebus daging hingga empuk.
+\n2. Tumis bumbu halus dengan api kecil sampai matang, masukkan serai, lengkuas, dan daun salam. Tumis sampai harum.
+\n3. Masukkan daging dalam tumisan, masak hingga daging berubah warna.
+\n4. Masukkan air kurang lebih 2 liter dan santan kelapa.
+\n5. Tambahkan gula jawa, garam, kaldu jamur, dan kecap manis. Masak dengan api kecil hingga bumbu meresap.
+\n6. Sajikan dengan nasi putih dengan taburan bawang goreng dan beri perasan jeruk nipis.
+\nSelamat memasak, ladies!</string>
+    <string name="m">->Bahan-bahan:
+ \n- 250 gr selada keriting segar
+ \n- 100 gr kacang panjang
+ \n- 2 buah tomat
+ \n- 100 gr tauge
+ \n- 500 gr kentang
+ \n- 2 buah mentimun
+ \n- 1 papan tempe
+ \n- 5 buah tahu
+ \n- 5 butir telur ayam
+ \n- Minyak goreng
+ \n- kerupuk\n
+->Bumbu untuk saus kacang:
+ \n- 3 buah cabe rawit segar
+ \n- 5 siung bawang putih
+ \n- 250 gr kacang tanah
+ \n- 3 sdm air asam jawa
+ \n- 3 lembar daun jeruk purut
+ \n- 1 sdt garam
+ \n- 500 ml santan dari satu butir kelapa
+ \n- 50 gr gula merah\n
+->Cara membuat:
+\n1.Siapkan kacang tanah, cuci bersih kemudian sangrai dan buang kulit arinya.
+\n2.Haluskan cabe rawit dan bawang putih kemudian rambahkan daun jeruk lalu tumis hingga harum.
+\n3.Masukkan kacang tanah sangrai, bumbu halus, dan santan ke dalam blender, kemudian blender sampai halus.
+\n4.Keluarkan adonan saus kacang lalu rebus sebentar hingga mendidih dan tambahkan garam, serta irisan gula merah. bumbu gado 2 pun siap.
+\n5.Rebus telur ayam dan semua sayuran sampai matang, kemudian tiriskan.
+\n6.Goreng tempe dan tahu hingga kering.
+\n7.Tata sayuran sedemikian rupa ke dalam piring, tambahkan telur rebus, potongan tahu-tempe, kemudian siram dengan saus kacang dan taburi kerupuk diatasnya.</string>
+    <string name="n">->Bahan:
+\n1. 1 ekor ayam
+\n2. 2 ½ ltr air\n
+->Bumbu halus:
+\n1. 7 siung bawang putih
+\n2. 13 siung bawang merah
+\n3. 2 cm jahe
+\n4. 2 cm kunyit, (bakar)
+\n5. 3 btr kemiri, (sangrai)
+\n6. 1 cm lengkuas, (geprek)
+\n7. 4 lbr daun salam
+\n8. 2 btg sereh, (geprek)
+\n9. 3 lbr daun jeruk
+\n10. 1 sdt garam
+\n11. 1 sdm gula
+\n12. 1 sdt merica\n
+->bahan koya:
+\n1. Kerupuk udang secukupnya
+\n2. bawang putih goreng\n
+->Bahan pelengkap:
+\n1. 1 butir telur rebus
+\n2. soun
+\n3. kol
+\n4. kecap
+\n5. bawang daun
+\n6. jeruk nipis
+\n7. Sambal\n
+->Langkah:
+\n1.Cuci bersih ayam, rebus dengan 2 ltr air hingga matang (sekitar 25-30 mnt). Buang buih yang keluar.
+\n2.Haluskan bawang putih, bawang merah, kemiri sangrai, jahe, lengkuas, kunyit, degnan 50 ml air.
+\n3.Tumis bumbu halus dengan sereh, daun salam, dan daun jeruk hingga harum.
+\n4.Masukkan tumisan bumbu ke dalam rebusan ayam. Bumbui dengan garam, lada dan gula. Rebus kira-kira 20 menit atau hingga bumbu meresap dan ayam telah empuk.
+\n5.Angkat ayam, panaskan minyak, goreng hingga kecoklatan. Angkat, tiriskan dan suwir-suwir ayam. Sisihkan.
+\n6.Blender kerupuk udang dan bawang putih goreng sampai halus, sisihkan.
+\n7.Susun bahan pelengkap dalam wadah lalu siram air kuah. Taburkan koya . Lebih sedap bila di tambah sambal, perasan air jeruk nipis dan kecap sesuai selera.</string>
+    <string name="o">->Bahan-bahan :
+\n1 kg lele (8 ekor)
+\n1 iris kecil bawang putih
+\n1 iris kecil jahe
+\n1 iris kecil kunyit
+\n1 sdm garam\n
+->Sambal terasi :
+\n16 bh cabe rawit merah,goreng
+\n6 bh cabe merah keriting,goreng
+\n4 bh tomat merah besar,goreng(1tomat belah 4)
+\n5 siung bawang putih,goreng
+\n4 siung bawang merah,iris tipis,goreng
+\n1 bh terasi abc,bakar
+\n8 biji kacang tanah,goreng
+\nsecukupnya Garam,gula\n
+->Lalapan :
+\nTimun,daun selada\n
+->Langkah	:
+\n1.Bersihkan lele,iris perut.sisihkan.ulek bawang putih,jahe,kunyit dan garam untuk bumbu lele.komposisi bumbu sama garam lebih dominan garam ya bun.lumuri lele dg garam lalu diamkan sebentar biar bumbu meresap. (Klo aku setelah lele dibumbui langsung masuk kulkas,klo mau makan baru digoreng.soalnya enak klo anget2)
+\n2.Setelah dibumbui lele digoreng dg minyak panas api sedang supaya matang merata.
+\n3.Siapkan bahan sambal.cabe,bawang putih,bawang merah,tomat,kacangtanah,terasi yg sdh digoreng dan dibakar.ulek jadi satu smua bahan sambal tambahkan garam dan gula.koreksi rasa.
+\n4.Pecel lele siap disajikan dg lalapan selada,timun dan tomat.</string>
+    <string name="p">->Bahan:
+\n- 1 buah (300 gram) tahu putih, digoreng dan dipotong-potong
+\n- 200 gram tempe, digoreng, dipotong-potong
+\n- 1 ikat (100 gram) kangkung, disiangi lalu direbus
+\n- 100 gram taoge, diseduh
+\n- 300 gram cingur
+\n- 1 buah (100 gram) mentimun, dipotong-potong
+\n- 4 buah lontong untuk pelengkap\n
+->Bumbu Ulek Halus:
+\n- 1 buah pisang batu, diiris
+\n- 4 buah cabai rawit merah
+\n- 6 sendok makan kacang tanah goreng
+\n- 4 sendok teh gula merah sisir
+\n- 4 siung bawah putih utuh, digoreng
+\n- 2 sendok teh garam
+\n- 4 sendok makan petis
+\n- 4 sendok makan air asam (dari 2 sendok teh asam jawa dan 75 ml air)\n
+->KUAH SOTO Bahan:
+\n- 100 gram babat, direbus
+\n- 100 gram usus, direbus
+\n- 200 gram daging tetelan
+\n- 1,25 liter air
+\n- 2 batang serai, diambil putihnya lalu dimemarkan
+\n- 2 lembar daun jeruk, dibuang tulang-tulangnya
+\n- 2 ¼ sendok teh garam
+\n- 2 sendok teh gula pasir
+\n- 1 batang daun bawang, dipotong 1 cm
+\n- 2 sendok makan minyak untuk menumis\n
+->Bumbu Halus:
+\n- 10 butir bawang merah
+\n- 6 siung bawang putih
+\n- 2 cm kunyit, dibakar
+\n- 3 butir kemiri, disangrai
+\n- 2 cm jahe
+\n- ½ sendok teh merica
+\n- 1 sendok teh ketumbar\n
+->Cara Membuat:
+\n- Rebus cingur dengan 2 lembar daun salam, 2 cm jahe, 1 batang serai, dan 1 sendok teh garam dalam 1 liter air sampai matang. Potong-potong
+\n- Kuah soto: Rebus daging dan tetelan sampai empuk.
+\n- Panaskan minyak. Tumis bumbu halus, serai, dan daun jeruk sampai harum. Tuang ke rebusan daging dan tetelan. Masukkan garam dan gula pasir. Masak sampai matang. Menjelang diangkat, tambahkan daun bawang. Aduk rata.
+\n- Campurkan bumbu rujak dengan tahu, tempe, kangkung, taoge, cingur, mentimun, dan lontong di dalam mangkuk kemudian siram dengan kuah beserta daging dan tetelan.</string>
+    <string name="q">->Bahan:
+\n1. Ayam segar yang sudah dipotong kotak atau persegi panjang kurang lebih sebanyak 1 kg.
+\n2. Tusuk sate secukupnya sesuai jumlah potongan daging ayam.\n
+->Bahan bumbu rendaman sate madura:
+\n1. Garam dapur beryodium kurang lebih 0.25 sendok kecil.
+\n2. Merica butiran kurang lebih 15 butir atau sesuai selera.
+\n3. Bawang putih ukuran sedang besar kurang lebih sebanyak 7 pcs.
+\n4. Kecap manis kental kurang lebih sebanyak 10 sendok makan.
+\n5. Minyak goreng atau sayur yang baru kurang lebih sebanyak 15 sendok makan.
+\n6. Air bersih kurang lebih sebanyak 3 sendok makan.\n
+->Bahan pelengkap:
+\nBawang merah mentah yang sudah diiris secukupnya.
+\nBawang merah goreng sesuai selera.
+\nSambal atau cabai rawit yang diiris iris sesuai selera.\n
+->Langkah Membuat Sate Madura:
+\nPertama uleg kacang tanah, bawang putih, kemiri dan gula merah sampai halus.
+\nMasukkan garam dapur dan kecap manis kedalam bumbu sate diatas.
+\nTambahkan air bersih kemudian aduk sampai rata.
+\nMasukkan daging ayam kedalamnya.
+\nAduk sebentar supaya tecampur rata kemudian marinasi atau diamkan selama kurang lebih 0.5 jam. Sebaiknya dimasukkan kedalam kulkas ya.
+\nKeluarkan kemudian masukkan potongan daging ayam yang sudah dibumbuin tadi kedalam tusukan satenya.
+\nTambahkan minyak goreng kedalam sisa bumbu rendaman tadi kemudian aduk sampai rata.
+\nSiapkan arang atau teflon untuk membakar sate madura nya.
+\nCelupkan kedalam sisa bumbu tadi kemudian bakar sampai setengah matang.
+\nCelupkan kembali kedalam sisa bumbu kemudian bakar kembali sampai semua tusuk sate nya matang.\n
+->Bahan Bumbu Kacang:
+\nKacang tanah yang sudah digoreng kurang lebih sebanyak 500 gram.
+\nBawang putih kurang lebih sebanyak 10 pcs.
+\nGaram dapur secukupnya atau kurang lebih 0.5 sendok kecil.
+\nKemiri yang sudah disangrai sebelumnya kurang lebih sebanyak 25 pcs.
+\nGula merah yang sudah disisr halur kurang lebih sebanyak 100 gram.
+\nAir bersih kurang lebih sebanyak 1 gelas atau sesuai tingkat kekentalan.
+\nMinyak goreng baru sedikit saja.\n
+->Langkah membuat bumbu kacang sate madura:
+\n1.Pertama uleg kacang tanah bersama dengan kemiri, gula merah, bawang putih sampai halus.
+\n2.Tuang air bersihnya dan garam dapur kemudian aduk sampai rata.
+\n3.Rebus bumbu kacang tadi dan tambahkan sedikit minyak goreng.
+\n4.Masak sampai airnya menyusut dan bumbunya mengental.
+\n5.Jangan lupa sering diaduk ya supaya tidak gosong.</string>
+    <string name="r">->Bahan-bahan:
+\n2 ekor Ikan bandeng (ukuran sedang)
+\n50 gr Kelapa parut, sangrai
+\n2 btr Telur, kocok lepas
+\n½ btr Santan dari kelapa 100 ml
+\nsecukupnya Gula
+\n2 sdm Minyak untuk menumis
+\nsecukupnya Garam
+\nsecukupnya Air asam
+\nDaun pisang untuk membungkus
+\n2 buah Bambu untuk menjepit\n
+->Bumbu(dihaluskan):
+\n3 buah Cabai merah keriting
+\n1 sdt Ketumbar
+\n1/4 sdt Jinten
+\n1 cm Jahe
+\n1 cm Lengkuas
+\n2 cm Kunyit
+\n8 bh Bawang merah
+\n4 bh Bawang putih\n
+->Langkah	:
+\n1. Pukul-pukul ikan bandeng, patahkan tulang ekornya, keluarkan.
+\n2. Ambil dagingnya menggunakan sendok.
+\n3. Sangrai daging ikan bandeng sampai kering, pisahkan durinya.
+\n4. Panaskan minyak, tumis bumbu halus sampai harum, tambahkan daging bandeng, kelapa sangria, gula, garam, dan air asam, aduk rata, angkat.
+\n5. Masukkan telur, santan, aduk rata. Bagi adonan menjadi dua, isi masing-masing ke dalam kulit bandeng.
+\n6. Jepit bandeng dengan bumbu, bungkus dengan daun pisang.
+\n7. Kukus bandeng sebentar saja ±15 menit.
+\n8. Panggang sampai matang, olesi sisa bumbu panggang lagi sambil dibolak-balik sampai matang. Sajikan bersama saus sesuai selera.
+    </string>
+    <string name="s">->Bahan bahan:
+\n1. air – 1,6 liter
+\n2. daun salam – 1 lembar
+\n3. air jeruk nipis – 1 sdm
+\n4. serai, ambil putihnya, memarkan – 2 batang
+\n5. tomat merah, belah 4 – 1 buah
+\n6. ayam – ½ ekor
+\n7. gula pasir – 1 sdt
+\n8. taoge pendek, seduh air panas, tiriskan – 150 gram
+\n9. kentang, potong dadu, goreng matang – 150 gram
+\n10. soun, rendam air panas, tiriskan – 50 gram
+\n11. seledri, iris halus – 1 batang
+\n12. telur rebus, kupas, belah 2 – 4 butir
+\n13. minyak goreng secukupnya
+\n14. garam secukupnya\n
+->Bumbu yang di haluskan:
+\n1. bawang merah – 7 butir
+\n2. bawang putih – 4 siung
+\n3. merica bubuk – ½ sdt
+\n4. kunyit, bakar, kupas – 3 cm\n
+->Pelengkap:
+\n1. bawang merah goreng – 2 sdm
+\n2. sambal cabai rawit – sesuai selera\n
+->Cara membuat:
+\n1.Potong ayam menjadi 2, cuci bersih. Lumuri dengan air jeruk nipis, diamkan 30 menit.
+\n2.Masukkan ayam dalam 1,5 liter air, tambahkan daun salam, 1 batang serai, tomat dan garam. Masak ayam hingga empuk. Tiriskan, sisihkan 1,2 liter kaldu.
+\n3.Panaskan minyak, goreng ayam hingga kecokelatan. Angkat dan suwir-suwir.
+\n4.Panaskan 3 sdm minyak goreng, tumis bumbu halus hingga harum. Masukkan serai, aduk. Tuang 25 ml ai, masak hingga bumbu matang dan air habis.
+\n5.Tuang tumisan bumbu dalam kaldu, aduk rata. Tambahkan gula pasir dan garam, masak hingga mendidih.
+\n6.Tata taoge, kentang, soun dan seledri dalam mangkuk saji, tambahkan irisan telur. Siram dengan kaldu panas, hidangkan panas dengan pelengkapnya.
+\nSelamat mencoba;)</string>
+    <string name="t">->Bahan-bahan untuk membuat Angeun Lada :
+\n1. 425 gram daging sapi, potonglah kotak dadu dan rebus
+\n2. 425 gram limpa sapi, potonglah kotak dadu dan rebus
+\n3. 425 gram jantung sapi, potonglah kotak dadu dan rebus
+\n4. 300 gram rebung
+\n5. 4  buah tomat motong-potong
+\n6. 1 ½ liter kaldu rebusan daging
+\n7. 5 lembar daun kecombrang atau daun walang memarkan (kecombrang/bunga honje sebagai bumbu penyedap)\n
+->Bumbu-bumbu yang dihaluskan :
+\n- 1 ½ sendok teh gula merah
+\n- 1 sendok teh garam
+\n- 10 buah cabe merah
+\n- 6 siung bawang merah
+\n- 5 siung bawang putih
+\n- 6 butir kemiri
+\n- 5 sendok makan ketumbar
+\n- 3 ½ cm kencur
+\n- 5 cm kunir/kunyit
+\n- 1 ½ sendok teh terasi\n
+->Cara Membuat Angeun Lada Special Khas Pandeglang:
+\n1.Tumislah bumbu-bumbu yang sudah dihaluskan hingga harum, lalu masukkan daging sapi, limpa dan jantung aduk-aduk hingga rata. Ungkep dengan menggunakan api kecil. Tambahkan serai dan daun walang/bunga kecombrang hingga aroma wangi.
+\n2.Tuangkan air kaldu, ungkep lagi hingga bumbu meresap kedalam daging dan semua bahan matang dan empuk.
+\n3.Masukkan rebung dan tomat, cicipi masakan untuk memastikan kombinasi bumbu sudah pas. didihkan kembali sebentar. Angkat.
+\n4.Masakan Angeun lada siap disajikan.
+</string>
+    <string name="u">->Bahan Ketan:
+\n1. n200 gram beras ketan, direndam selama 2 jam
+\n2. 250 ml santan dari 1/4 butir kelapa
+\n3. 1/2 sendok teh garam\n
+->Bahan Serundeng:
+\n1. 1/4 butir kelapa muda, diparut
+\n2. 2 lembar daun jeruk, dibuang tulangnya
+\n3. 1 lembar daun salam
+\n4. 3/4 sendok teh garam
+\n5. 1/4 sendok teh gula pasir\n
+->Bumbu Halus:
+\n1. 2 siung bawang putih
+\n2. 8 butir bawang merah
+\n3. 2 buah cabai merah besar
+\n4. 2 buah cabai merah keriting
+\n5. 1 sendok teh ketumbar bubuk\n
+->Cara Membuat Ketan Bintul yang Enak:
+\n1.Serundeng, campur kelapa dengan bumbu halus, daun jeruk, daun salam, garam, dan gula pasir. Sangrai hingga matang dan kering. Angkat. Haluskan. Sangrai kembali hingga benar-benar kering.
+\n2.Didihkan santan dan garam. Masukkan beras ketan. Masak sambil diaduk hingga meresap. Angkat. Kukus  di atas api sedang 15 menit. Tumbuk hingga halus.
+\n3.Letakkan ketan dalam sebuah loyang kotak 16x8x5 cm. Ratakan. Potong-potong ketan.
+\n4.Ketan Bintul yang Enak siap di Sajikan bersama taburan serundeng.
+</string>
+    <string name="kue">->Bahan-bahan:
+\n1. 125 gr tepung beras
+\n2. 100 gr terigu protein sedang (segitiga)
+\n3. 130 gr gula merah
+\n4. 50 gr gula pasir
+\n5. 200 ml air
+\n6. 1 lembar daun pandan
+\n7. 1/4 sdt garam\n
+Langkah:
+\n1.Rebus gula merah, gula pasir, air, daun pandan dan garam hingga larut lalu saring. Biarkan sampe hangat.
+\n2.Campurkan tepung beras dan tepung terigu dalam wadah. Masukkan larutan gula yg telah disaring. Aduk hingga rata menggunakan whisk lalu mikser dengan speed rendah selama 5 menit.
+\n3.Istirahatkan adonan selama 15 menit. Aduk kembali menggunakan whisk. Kalau adonan terlalu kental bs ditambah air sedikit demi sedikit agar konsistensi adonan pas (pas dalam artian tidak encer dan tidak kental).
+\n4.Panaskan secukupnya minyak goreng dalam wajan cekung. Aduk kembali adonan menggunakan whisk sebelum menggoreng.
+\n5.Tuang satu sendok sayur kedalam minyak yg sudah panas. Siram siram atasnya. Tusuk dengan lidi tengahnya. Apabila sudah tidak ada adonan yg keluar tandanya cucur sudah matang. Angkat dan tiriskan.
+\n6.NOTE: jangan memakai minyak terlalu banyak, secukupnya saja. Minyak harus sudah panas tapi mememakai api kecil ahar kue cucur bisa berserat bagus dan tipis.</string>
+    <string name="gudeg">->Bahan:
+\n1. 1 kg nangka muda
+\n2. 5 lembar daun jati/daun jambu
+\n3. 2 lembar daun salam
+\n4. 2 cm lengkuas, geprek
+\n5. 1 batang sereh, geprek
+\n6. 1 L santan encer
+\n7. 500 ml Air
+\n8. 1 sdt garam
+\n9. 5 butir telur rebus
+\n10. ¼ ekor ayam kampung\n
+->bumbu halus:
+\n- 15 siung bawang merah
+\n- 6 siung bawang putih
+\n- 8 butir kemiri, sangrai
+\n- 3 sdm ketumbar
+\n- 135 gram gula merah
+\n- ½ sdm garam\n
+->Langkah:
+\n1.Haluskan bawang merah, bawang putih, kemiri, ketumbar, gula merah, dan garam dengan sedikit air.
+\n2.Masukkan nangka muda, ayam , sereh, lengkuas, daun salam, bumbu halus, gula merah, garam , air dan santan . Tutup dengan daun jati. Masak selama 1 jam.
+\n3.Setelah 30 menit, masukkan telur rebus dan santan. Masak selama 3 jam.
+\n4.Sajikan gudeg nangka bersama kuah santan areh.</string>
+    <string name="krecek">->Bahan yang disiapkan:
+\n- 150 gram krecek atau kulit sapi.
+\n- 1000 ml santan ecer(1/2 butir kelapa)
+\n- 15 buah cabai rawit
+\n- 4 cm lengkuas, memarkan
+\n- 3 lembar daun salam
+\n- 1 batang serai, memarkan lalu simpulkan
+\n- 3 sendok makan minyak goreng
+\n- 1 sendok makan gula merah, sisirkan.
+\n- Air secukupnya.\n
+->Bumbu yang dihaluskan:
+\n- 6 butir bawang merah
+\n- 4 siung bawang putih
+\n- 5 buah cabai merah kriting
+\n- ½ sendok teh terasi bakar
+\n- Garam secukupnya.\n
+->Cara membuatnya:
+\n1.Rendam krecek dalam air secukupnya. Minyak yang berlebihan dan kotoran akan tampak mengapung di air, buang minyaknya lalu tiriskan kreceknya.
+\n2.Panaskan minyak. Kemudian tumis bumbu yang sudah dihaluskan tadi ke atas minyak yang sudah di panaskan.
+\n3.Aduk hingga harum, lalu masukkan serai, daun salam dan lengkuas, aduk hingga rata.
+\n4.Tuang santan encer tadi sambil diaduk perlahan hingga mendidih.
+\n5.Masukkan krecek, masak dengan api sedang sambil sesekali diaduk hingga santan tersisa ¼ bagian.
+\n6.Masukkan cabai rawit utuh, lalu tambahkan gula merah, aduk lagi hingga bumbu meresap dan matang.
+\n7.Angkat dan siap di hidangkan.</string>
+    <string name="tiwul">->Bahan:
+\n1.350 gram singkong yang sudah dikeringkan
+\n2.150 gram Gula merah
+\n3.200 gram kelapa parut
+\n4.2 lembar daun pandan yang panjangnya sekitar 20 cm, diikat simpul
+\n5.1 Lembar daun pisang
+\n6.350 ml gelas air
+\n7.Garam secukupnya\n
+->Cara Memasak:
+\n1.Singkong yang sudah dikeringkan (gaplek) ditumbuk sampai jadi seperti tepung, kemudian percikkan sedikit air, lalu tumbuk lagi sampai didapatkan butiran kecil-kecil. Sisihkan dahulu, karena ini merupakan bahan utamanya.
+\n2.Panaskan dandang atau kukusan, jangan lupa alasi dengan menggunakan daun pisang.
+\n3.Masukkan butiran kecil singkong tadi ke dalam dandang.
+\n4.Tambah gula merah yang sudah diserut di atas gaplek, harus rata ya, tapi nggak semua kena gula merahnya juga nggak apa-apa, lalu kukus selama kurang lebih 1 jam, kemudian angkat.
+\n5.Setelah itu kukus kelapa parut bersama dengan daun pandan dan tambakan garam secukupnya, selama kurang lebih 15 menit, kemudian angkat angkat.
+\n6.Nasi tiwul siap disajikan bersama dengan kelapa parut.</string>
+    <string name="sayur">->Bahan:
+\n1. 1 sdm minyak sayur
+\n2. 5 butir bawang merah, iris tipis
+\n3. 3 siung bawang putih, iris tipis
+\n4. 12 buah cabai hijau keriting, iris kasar
+\n5. 5 buah cabai rawit merah, iris kasar
+\n6. 100 g daging tetelan sapi, iris kasar
+\n7. 250 ml kaldu sapi
+\n8. 500 ml santan
+\n9. 200 g tempe, iris kasar
+\n10. 1 lembar daun salam
+\n11. 1 cm lengkuas, memarkan
+\n12. ½ sdt merica bubuk
+\n13. 2 sdt garam\n
+->Cara membuat:
+\n1.Tumis bawang merah dan bawang putih hingga layu.
+\n2.Masukkan cabai hijau, cabai rawit, aduk hingga layu.
+\n3.Tambahkan daging, kaldu dan santan, didihkan.
+\n4.Masukkan tempe dan bumbu lainnya.
+\n5.Masak dengan api sedang hingga mendidih dan meresap.
+\n6.Angkat, sajikan hangat.</string>
+    <string name="ayam">->Bahan-bahan:
+\n1. Ayam kampung: 1 ekor
+\n2. Bumbu ayam grprek sederhana
+\n3. Bawang putih: 2 siung
+\n4. Ketumbar bubuk: 1 sendok makan
+\n5. Garam: 2 sendok teh
+\n6. Merica: 1 sendok teh\n
+->Bahan Pelapis:
+\n- Tepung terigu: 4 sendok makan
+\n- Baking powder: 1/2 sendok teh
+\n- Telur: 1 butir
+\n- Lada secukupnya
+\n- Garam secukupnya
+\n- Merica secukupnya\n
+->Bumbu sambal ayam geprek:
+\n1. Cabe rawit: 10 buah (sesuai selera)
+\n2. Bawang merah: 4 buah
+\n3. Bawang putih: 3 siung
+\n4. Tomat: 1 buah
+\n5. Garam secukupnya
+\n6. Gula secukupnya\n
+->Cara membuat ayam geprek istimewa:
+\n1.Kukus potongan daging ayam bersama bumbu yang telah disiapkan dengan api sedang, kurang lebih 10 menit. Angkat dan tiriskan
+\n2.Masukkan telur, garam, merica dan 1 sendok makan tepung terigu ke dalam mangkuk. Kocok rata
+\n3.Masukkan 3 sendok makan tepung terigu, lada, garam dan baking powder ke dalam piring datar, aduk hingga merata
+\n4.Lapisi potongan ayam yang sudah dikukus dengan telur dan tepung kering
+\n5.Goreng daging ayam ke dalam minyak banyak samapi berwarna kuning dan timbul crispy nya. Angkat
+\n6.Tumis semua bumbu sambal pada api sedang, tunggu hingga muncul aroma harum. Ulek bumbu tersebut lalu tabahkan garam dan gula
+\n7.Tuangkan sambal di atas ayam crispy, kemudian geprek ayam tersebut
+\n8.Ayam geprek sederhana siap dihidangkan</string>
+</resources>
